@@ -8,9 +8,10 @@
 </head>
 <body>
     <header>
-        <h1>Hello, I'm <span>Your Name</span>! 👋</h1>
-        <p>I'm a passionate <span>Your Role/Profession</span> based in <span>Your Location</span>. Welcome to my GitHub profile!</p>
+        <h1>Hello, I'm <span>MKTM Sameera</span>! 👋</h1>
+        <p>I'm a passionate <span>Senior Software Engineer</span>. Welcome to my GitHub profile!</p>
     </header>
+    <!--
     <section class="about">
         <h2>About Me</h2>
         <ul>
@@ -45,6 +46,6 @@
             <li>Twitter: <a href="#">Your Twitter Profile</a></li>
             <li>Personal Website: <a href="#">Your Personal Website</a></li>
         </ul>
-    </section>
+    </section> -->
 </body>
 </html>
