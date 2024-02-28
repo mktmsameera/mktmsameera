@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+header p {
+    margin: 10px 0 0;
+}
+
+.about,
+.languages,
+.projects,
+.connect {
+    padding: 20px;
+}
+
+.about h2,
+.languages h2,
+.projects h2,
+.connect h2 {
+    font-size: 20px;
+}
+
+.about ul,
+.languages ul,
+.projects ul,
+.connect ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about ul li,
+.languages ul li,
+.projects ul li,
+.connect ul li {
+    margin-bottom: 10px;
+}
+
+.about ul li span,
+.languages ul li span,
+.projects ul li span,
+.connect ul li span {
+    font-weight: bold;
+}
+
+.projects ul {
+    margin-left: 20px;
+}
+
+.projects ul li {
+    margin-bottom: 5px;
+}
+
+.projects p {
+    margin-top: 10px;
+}
+
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
