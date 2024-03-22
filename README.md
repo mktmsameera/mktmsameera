@@ -1,51 +1,34 @@
+Certainly! Here's the revised content based on your provided information:
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Hello, I'm <span>MKTM Sameera</span>! 👋</h1>
-        <p>I'm a passionate <span>Senior Software Engineer</span>. Welcome to my GitHub profile!</p>
-    </header>
-    <!--
-    <section class="about">
-        <h2>About Me</h2>
-        <ul>
-            <li>💼 Currently working on <span>Current Project/Job</span></li>
-            <li>🌱 Learning <span>Current Learning Focus</span></li>
-            <li>👯 I’m looking to collaborate on <span>Project Ideas/Interests</span></li>
-            <li>💬 Ask me about <span>Your Expertise/Interests</span></li>
-            <li>📫 How to reach me: <span>Your Contact Information</span></li>
-        </ul>
-    </section>
-    <section class="languages">
-        <h2>Languages and Tools</h2>
-        <ul>
-            <li>Programming Languages: <span>List of Languages</span></li>
-            <li>Frameworks and Libraries: <span>List of Frameworks and Libraries</span></li>
-            <li>Tools and Technologies: <span>List of Tools and Technologies</span></li>
-        </ul>
-    </section>
-    <section class="projects">
-        <h2>Projects</h2>
-        <ul>
-            <li><a href="#">Project Name 1</a> - Brief description</li>
-            <li><a href="#">Project Name 2</a> - Brief description</li>
-            <li><a href="#">Project Name 3</a> - Brief description</li>
-        </ul>
-        <p>Feel free to explore more of my projects on <a href="#">My Portfolio</a>!</p>
-    </section>
-    <section class="connect">
-        <h2>Connect with Me</h2>
-        <ul>
-            <li>LinkedIn: <a href="#">Your LinkedIn Profile</a></li>
-            <li>Twitter: <a href="#">Your Twitter Profile</a></li>
-            <li>Personal Website: <a href="#">Your Personal Website</a></li>
-        </ul>
-    </section> -->
-</body>
-</html>
+---
+
+# Hello, I'm MKTM Sameera! 👋
+## Senior Software Engineer at Skale Pvt Ltd.
+
+Welcome to my GitHub profile! I'm passionate about software development and exploring new technologies. Here you'll find information about my background, interests, and skills.
+
+### 🌟 About Me
+- 💻 Senior Software Engineer with expertise in:
+  - Linux
+  - Windows
+  - Laravel
+  - PHP
+  - MySQL
+  - Spring Boot
+  - Python
+  - HTML
+  - CSS
+  - GIT
+  - Jira / ClickUp / Trello
+  - AWS (EC2, S3, etc.)
+- 🎓 Graduated from the University of Ruhuna, Sri Lanka.
+
+### 📝 Writing
+I share my thoughts and experiences on software development and technology on [Medium](https://mktmsameera.medium.com). Follow me to stay updated!
+
+### 🌱 Let's Connect
+- LinkedIn: [Connect with me on LinkedIn](https://lk.linkedin.com/in/mktmsameera)
+- Email: [tharindums59@gmail.com](tharindums59@gmail.com)
+
+### 💬 Get in Touch
+I'm always open to interesting conversations and collaborations. Feel free to reach out!
