@@ -1,7 +1,3 @@
-Certainly! Here's the revised content based on your provided information:
-
----
-
 # Hello, I'm MKTM Sameera! 👋
 ## Senior Software Engineer at Skale Pvt Ltd.
 
