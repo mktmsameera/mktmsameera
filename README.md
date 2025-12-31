@@ -1,75 +1,79 @@
 # Hello, I'm MKTM Sameera! 👋
 
-## Software Architect | Skale Pvt Ltd
+## 🧠 Software Architect | Skale Pvt Ltd
 
-Welcome to my GitHub profile!  
-I am a **Software Architect** with a strong engineering background and hands-on experience in designing, building, and scaling reliable software systems. I focus on **clean architecture, scalability, security, and performance**, while aligning technical solutions with business goals.
+I am a **Software Architect** with a strong engineering background and hands-on experience in designing, building, and scaling secure, high-performance software systems. I focus on **clean architecture, scalability, system reliability, and long-term maintainability**, while aligning technical solutions with real business needs.
 
----
-
-## 🧠 About Me
-
-- 💻 Software Architect with solid experience in full-stack development and system design  
-- 🏗️ Lead architecture decisions and guide development teams  
-- 🔐 Focus on secure, scalable, and maintainable applications  
-- 🎓 Graduate of the **University of Ruhuna, Sri Lanka**
+I actively lead **architecture decisions**, design system flows, guide development teams, and ensure best practices across backend, cloud, and server infrastructure.
 
 ---
 
-## 🔧 Core Technical Skills
+## 🏗️ Architecture & Leadership Focus
+
+- System & Solution Architecture Design  
+- Scalable & High-Availability Application Design  
+- Secure Application & Server Architecture  
+- Monolithic to Modular / Service-Oriented Architecture  
+- API Architecture & Integration Strategies  
+- Database Architecture & Data Flow Design  
+- Performance Optimization & Bottleneck Analysis  
+- Error Handling, Logging & Monitoring Design  
+- Cost-Optimized Cloud & Infrastructure Planning  
+- Code Reviews, Technical Mentoring & Architecture Guidance  
+
+---
+
+## 🔧 Technical Skills & Tech Stack
 
 ### Backend & Frameworks
 - Laravel, PHP  
+- NestJS (Node.js)  
 - Spring Boot (Java)  
 - Python  
 
 ### Frontend & Web
 - HTML, CSS  
-- RESTful API Design  
+- RESTful API Development  
 
 ### Databases
 - MySQL  
-- Database design & performance optimization  
+- Large-scale data handling & query optimization  
 
-### Cloud & DevOps
+### Cloud, DevOps & Infrastructure
 - AWS (EC2, S3, IAM, Load Balancers)  
+- Docker & containerized deployments  
 - Linux & Windows servers  
-- Deployment & environment management  
+- Nginx web server  
+- CI/CD awareness & deployment pipelines  
+- Server security, permissions & environment hardening  
 
-### Tools & Project Management
+### Version Control & Project Tools
 - Git  
 - Jira, ClickUp, Trello  
-
----
-
-## 🏗️ Software Architecture Skills
-
-- System & Solution Architecture Design  
-- Modular & Service-Oriented Architecture  
-- Scalable and High-Availability System Design  
-- Secure Application Architecture  
-- Performance Optimization & Bottleneck Analysis  
-- Database Architecture & Data Flow Design  
-- API Architecture & Integration Strategies  
-- Logging, Monitoring & Error-Handling Design  
-- Cost-Optimized Cloud Architecture  
 
 ---
 
 ## 🧰 Architecture Tools & Practices
 
 - UML Diagrams (Class, Sequence, Flow)  
-- Architecture Documentation & Technical Specifications  
+- Architecture & Technical Documentation  
 - Design Patterns & Best Practices  
-- Code Reviews & Technical Mentoring  
-- CI/CD Awareness & Release Planning  
+- System Monitoring & Error Tracking  
+- Release Planning & Environment Strategy  
 
 ---
 
-## 📝 Writing
+## 🎓 Education
 
-I share my thoughts and experiences on software development and architecture on Medium:  
-👉 https://mktmsameera.medium.com
+- **BSc **  
+  University of Ruhuna, Sri Lanka  
+
+---
+
+## 📝 Writing & Knowledge Sharing
+
+I write about software development, architecture, and real-world engineering challenges on Medium:  
+👉 https://mktmsameera.medium.com  
 
 ---
 
@@ -80,4 +84,4 @@ I share my thoughts and experiences on software development and architecture on 
 
 ---
 
-💬 I’m always open to interesting conversations, collaborations, and architecture discussions.
+💬 Open to architecture discussions, system design challenges, and meaningful collaborations.
